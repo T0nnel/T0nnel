@@ -6,27 +6,27 @@ Full Stack Web Development
 
 👋 Hey, I'm Tonnel
 
-🔭 \*\*I’m currently working on\*\*
+🔭 I’m currently working on
 
 Building full-stack apps, scalable systems, and a few ambitious startup ideas.
 
-👯 \*\*I’m looking to collaborate on\*\*
+👯 I’m looking to collaborate on
 
 Open-source tools, SaaS products, and anything that solves real problems.
 
-🤝 \*\*I’m looking for help with\*\*
+🤝 I’m looking for help with
 
 Scaling products, clean system design, and growth strategies.
 
-🌱 \*\*I’m currently learning\*\*
+🌱 I’m currently learning
 
 Advanced backend architecture, cloud infra, and AI-powered workflows.
 
-💬 \*\*Ask me about\*\*
+💬 Ask me about
 
 React, APIs, system design, startups, or turning ideas into products.
 
-⚡ \*\*Fun fact\*\*
+⚡ Fun fact
 
 I love building big things from scratch and figuring it out as I go.
 
